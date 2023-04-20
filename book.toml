@@ -1,0 +1,14 @@
+[book]
+authors = ["Yochi Labs"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Yochi Labs"
+
+[output.html]
+additional-css = ["main.css"]
+cname = "docs.yochi.ai"
+no-section-label = true
+
+[output.html.fold]
+level = 0

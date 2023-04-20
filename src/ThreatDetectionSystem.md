@@ -1,0 +1,9 @@
+# Real-time Threat Detection system
+
+Yochi's threat detection system is designed to identify and alert users to potential security threats on the blockchain network. Our system uses advanced algorithms and ETL technology to constantly monitor multiple public blockchain networks, including L1 and L2 networks, providing real-time notifications of potential threats. This allows us to provide comprehensive coverage for users and prevent attacks before they can cause damage. Unlike traditional antivirus software, which is designed to detect malware and viruses on a user's device, Yochi focuses on identifying threats on the blockchain network itself. This allows us to provide real-time protection for users and prevent attacks before they can cause damage.
+
+One of the key features of our threat detection system is its ability to detect "smart contract" vulnerabilities. Smart contracts are self-executing contracts with the terms of the agreement written directly into the code. These contracts can be used to facilitate, verify, and enforce the negotiation or performance of a contract. However, if a smart contract is not properly written or audited, it can contain vulnerabilities that can be exploited by hackers. Our system is able to identify these vulnerabilities and alert users to the potential risks.
+
+Additionally, Yochi's threat detection system also includes a "blockchain behavior analysis" feature. This feature monitors the activity on the blockchain network and uses machine learning algorithms to identify and flag any abnormal or suspicious behavior. This allows us to detect and respond to potential threats in real-time, providing users with an added layer of security.
+
+Overall, Yochi's threat detection system is designed to give users peace of mind by providing real-time protection against potential security threats on the blockchain network. With Yochi, users can have confidence in the security of their digital assets and transactions.
